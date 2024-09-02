@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/anvarsadiq-portfolio/static/css/main.0126a456.css",
+    "main.js": "/anvarsadiq-portfolio/static/js/main.71144c6a.js",
+    "static/js/787.fb771931.chunk.js": "/anvarsadiq-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/ugdiet.png": "/anvarsadiq-portfolio/static/media/ugdiet.bf5c27a96e628d3e5dbc.png",
+    "static/media/gelcargo.png": "/anvarsadiq-portfolio/static/media/gelcargo.2b537e504726df9494bb.png",
+    "static/media/color-sharp.png": "/anvarsadiq-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/anvarsadiq-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/fitmaster.png": "/anvarsadiq-portfolio/static/media/fitmaster.caec1adafee10ded7db2.png",
+    "static/media/phone3.png": "/anvarsadiq-portfolio/static/media/phone3.e0cd8d276d7687f11a53.png",
+    "static/media/phone2.png": "/anvarsadiq-portfolio/static/media/phone2.0820d5fc9f6cbbbf1c22.png",
+    "static/media/anvar.jpeg": "/anvarsadiq-portfolio/static/media/anvar.ca81a74356b10e9e13ec.jpeg",
+    "static/media/header-img.svg": "/anvarsadiq-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/phone1.png": "/anvarsadiq-portfolio/static/media/phone1.0075a3879a939acb01f0.png",
+    "static/media/CentraNo2-Bold.ttf": "/anvarsadiq-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/anvarsadiq-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/anvarsadiq-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/anvarsadiq-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/anvarsadiq-portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/anvarsadiq-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/anvarsadiq-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/private-site.jpg": "/anvarsadiq-portfolio/static/media/private-site.6dd453e0a46ea0175bb8.jpg",
+    "static/media/revicons.woff": "/anvarsadiq-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/anvarsadiq-portfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/anvarsadiq-portfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/anvarsadiq-portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/logo.svg": "/anvarsadiq-portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon3.svg": "/anvarsadiq-portfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/anvarsadiq-portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/anvarsadiq-portfolio/index.html",
+    "static/media/arrow2.svg": "/anvarsadiq-portfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/anvarsadiq-portfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/anvarsadiq-portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.0126a456.css.map": "/anvarsadiq-portfolio/static/css/main.0126a456.css.map",
+    "main.71144c6a.js.map": "/anvarsadiq-portfolio/static/js/main.71144c6a.js.map",
+    "787.fb771931.chunk.js.map": "/anvarsadiq-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0126a456.css",
+    "static/js/main.71144c6a.js"
+  ]
+}
