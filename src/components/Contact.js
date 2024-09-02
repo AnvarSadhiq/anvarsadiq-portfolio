@@ -1,4 +1,4 @@
-import { useRef } from "react";
+import { useRef,useState } from "react";
 import { Container, Row, Col, Card } from "react-bootstrap";
 import contactImg from "../assets/img/contact-img.svg";
 import "animate.css";
@@ -17,6 +17,7 @@ export const Contact = () => {
   };
 
   const form = useRef();
+  const [message, setMessage] = useState(""); // State to store success or error message
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -28,9 +29,12 @@ export const Contact = () => {
       .then(
         (result) => {
           console.log("Message sent!", result.text);
+          setMessage("Message sent successfully!"); // Set success message
+          form.current.reset(); // Reset the form fields
         },
         (error) => {
           console.log("Message failed, Something went wrong...", error.text);
+          setMessage("Can't send, something went wrong."); // Set error message
         }
       );
   };
@@ -102,7 +106,7 @@ export const Contact = () => {
                     <label>Email</label>
                     <input type="email" name="user_email" required />
                     <label>Mobile Number</label>
-                    <input type="phone" name="number" required />
+                    <input type="number" name="number" required />
                     <label>Message</label>
                     <textarea name="message" />
                     <input type="submit" value="Send" />
